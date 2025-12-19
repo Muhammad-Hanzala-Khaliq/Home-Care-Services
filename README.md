@@ -20,3 +20,36 @@ This project highlights the practical implementation of **Android application de
 - Firebase Authentication
 - Firebase Realtime Database
 
+## 📸 App Screenshots
+
+### 🔐 Authentication
+![Login Screen](screenshots/Login.png)
+![Signup Screen](screenshots/Signup.png)
+
+### 🏠 Home & Categories
+![Home Screen](screenshots/Home.png)
+![All Categories](screenshots/All-Categories.png)
+
+### 🛠️ Service Categories
+![Cleaning](screenshots/Cleaning.png)
+![Plumber](screenshots/Plumber.png)
+![Mechanic](screenshots/Mechanic.png)
+![Electric](screenshots/Electric.png)
+
+### 📄 Service Details
+![Service Detail](screenshots/Service-Detail-Page.png)
+
+### 📅 Booking
+![Booking Page](screenshots/Booking-Page.png)
+![My Booking Page](screenshots/My-Booking-Page.png)
+
+### ❤️ Favorites
+![Favourite Page](screenshots/Favourite-Page.png)
+
+### 👤 Profile
+![Profile Page](screenshots/Profile-Page.png)
+
+---
+
+## 📌 Note
+All screenshots represent the working state of the application and were captured during testing on a real device/emulator.
