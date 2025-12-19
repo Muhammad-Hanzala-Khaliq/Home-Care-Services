@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Services-App</string>
+    <string name="welcome">Welcome</string>
+    <string name="name">Name</string>
+    <string name="smart_home_nsmooth_services">Smart Home, \nSmooth Services</string>
+    <string name="title">title</string>
+    <string name="book_now">Book Now</string>
+    <string name="off">off</string>
+    <string name="_0">$0</string>
+    <string name="job">job</string>
+    <string name="about_me">About Me</string>
+    <string name="text">text</string>
+    <string name="premium">Premium</string>
+    <string name="don_t_have_an_account_sign_up">Don\'t have an account? Sign Up</string>
+    <string name="login">Login</string>
+    <string name="password">Password</string>
+    <string name="email">Email</string>
+    <string name="favourites">Favourites</string>
+    <string name="back">Back</string>
+</resources>

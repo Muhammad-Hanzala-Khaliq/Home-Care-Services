@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "663346563190",
+    "project_id": "services-app-1-bfefa",
+    "storage_bucket": "services-app-1-bfefa.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:663346563190:android:fd7cf633c3f156ae4af757",
+        "android_client_info": {
+          "package_name": "com.example.services_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD5NEIWVRaAKvYnD5X0Nm5vd_NsWRAQkQk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
